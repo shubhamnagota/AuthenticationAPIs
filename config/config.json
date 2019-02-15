@@ -1,0 +1,5 @@
+{
+    "MONGO_MLAB_URL": "mongodb://test:test123@ds137605.mlab.com:37605/authenticate_apis_example",
+    "SECRET_KEY": "SECRET_KEY_123",
+    "PORT": 4000
+}
